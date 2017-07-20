@@ -1,0 +1,4 @@
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Domain\bin\Debug\ApplicationTest.Domain.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Domain\bin\Debug\ApplicationTest.Domain.pdb
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Domain\obj\Debug\ApplicationTest.Domain.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Domain\obj\Debug\ApplicationTest.Domain.pdb

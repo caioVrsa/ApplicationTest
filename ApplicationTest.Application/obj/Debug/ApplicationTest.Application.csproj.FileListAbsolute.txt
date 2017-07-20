@@ -1,0 +1,5 @@
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Application\bin\Debug\ApplicationTest.Application.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Application\bin\Debug\ApplicationTest.Application.pdb
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Application\obj\Debug\ApplicationTest.Application.csprojResolveAssemblyReference.cache
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Application\obj\Debug\ApplicationTest.Application.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Application\obj\Debug\ApplicationTest.Application.pdb

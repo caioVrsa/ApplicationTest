@@ -1,0 +1,12 @@
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\ApplicationTest.Infra.Data.dll.config
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\ApplicationTest.Infra.Data.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\ApplicationTest.Infra.Data.pdb
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\ApplicationTest.Domain.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\ApplicationTest.Domain.pdb
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\obj\Debug\ApplicationTest.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\obj\Debug\ApplicationTest.Infra.Data.dll
+C:\Users\caraujo\Documents\Visual Studio 2017\Projects\ApplicationTest\ApplicationTest.Infra.Data\obj\Debug\ApplicationTest.Infra.Data.pdb
